@@ -1,9 +1,9 @@
 cipher: cipher.o
-	gcc cipher.o -o cipher
+	gcc cipher.c -o cipher
 cipher.o: cipher.c
 
 decipher: decipher.o
-	gcc decipher.o -o decipher
+	gcc decipher.c -o decipher
 decipher: decipher.c
 
 test: test1 test2
