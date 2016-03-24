@@ -1,0 +1,305 @@
+Script started on Thu Mar 24 19:09:30 2016
+[?1034hbash-3.2$ make proj2
+make: `proj2' is up to date.
+bash-3.2$ make test
+./proj2
+
+Simulation: 7 Tellers
+Total Served: 1545 Customers
+Average Wait In Line: 0.660194 Minutes
+Max Time Spent Waiting: 5 Minutes
+Average Line Length: 2.129167 Customers
+Max Line Length: 17 Customers
+
+
+Simulation: 6 Tellers
+Total Served: 1507 Customers
+Average Wait In Line: 12.575979 Minutes
+Max Time Spent Waiting: 25 Minutes
+Average Line Length: 40.966667 Customers
+Max Line Length: 88 Customers
+
+
+Simulation: 5 Tellers
+Total Served: 1238 Customers
+Average Wait In Line: 46.785946 Minutes
+Max Time Spent Waiting: 92 Minutes
+Average Line Length: 148.377090 Customers
+Max Line Length: 276 Customers
+
+
+Simulation: 4 Tellers
+Total Served: 973 Customers
+Average Wait In Line: 90.641319 Minutes
+Max Time Spent Waiting: 190 Minutes
+Average Line Length: 296.608337 Customers
+Max Line Length: 588 Customers
+
+./proj2 
+
+Simulation: 7 Tellers
+Total Served: 1545 Customers
+Average Wait In Line: 0.660194 Minutes
+Max Time Spent Waiting: 5 Minutes
+Average Line Length: 2.129167 Customers
+Max Line Length: 17 Customers
+
+
+Simulation: 6 Tellers
+Total Served: 1507 Customers
+Average Wait In Line: 12.575979 Minutes
+Max Time Spent Waiting: 25 Minutes
+Average Line Length: 40.966667 Customers
+Max Line Length: 88 Customers
+
+
+Simulation: 5 Tellers
+Total Served: 1238 Customers
+Average Wait In Line: 46.785946 Minutes
+Max Time Spent Waiting: 92 Minutes
+Average Line Length: 148.377090 Customers
+Max Line Length: 276 Customers
+
+
+Simulation: 4 Tellers
+Total Served: 973 Customers
+Average Wait In Line: 90.641319 Minutes
+Max Time Spent Waiting: 190 Minutes
+Average Line Length: 296.608337 Customers
+Max Line Length: 588 Customers
+
+./proj2
+
+Simulation: 7 Tellers
+Total Served: 1545 Customers
+Average Wait In Line: 0.660194 Minutes
+Max Time Spent Waiting: 5 Minutes
+Average Line Length: 2.129167 Customers
+Max Line Length: 17 Customers
+
+
+Simulation: 6 Tellers
+Total Served: 1507 Customers
+Average Wait In Line: 12.575979 Minutes
+Max Time Spent Waiting: 25 Minutes
+Average Line Length: 40.966667 Customers
+Max Line Length: 88 Customers
+
+
+Simulation: 5 Tellers
+Total Served: 1238 Customers
+Average Wait In Line: 46.785946 Minutes
+Max Time Spent Waiting: 92 Minutes
+Average Line Length: 148.377090 Customers
+Max Line Length: 276 Customers
+
+
+Simulation: 4 Tellers
+Total Served: 973 Customers
+Average Wait In Line: 90.641319 Minutes
+Max Time Spent Waiting: 190 Minutes
+Average Line Length: 296.608337 Customers
+Max Line Length: 588 Customers
+
+./proj2 proj21.dat 
+
+Simulation: 7 Tellers
+Total Served: 1046 Customers
+Average Wait In Line: 0.101338 Minutes
+Max Time Spent Waiting: 2 Minutes
+Average Line Length: 0.220833 Customers
+Max Line Length: 6 Customers
+
+
+Simulation: 6 Tellers
+Total Served: 1051 Customers
+Average Wait In Line: 0.263559 Minutes
+Max Time Spent Waiting: 3 Minutes
+Average Line Length: 0.577083 Customers
+Max Line Length: 9 Customers
+
+
+Simulation: 5 Tellers
+Total Served: 998 Customers
+Average Wait In Line: 0.859719 Minutes
+Max Time Spent Waiting: 5 Minutes
+Average Line Length: 1.787500 Customers
+Max Line Length: 13 Customers
+
+
+Simulation: 4 Tellers
+Total Served: 970 Customers
+Average Wait In Line: 15.224742 Minutes
+Max Time Spent Waiting: 35 Minutes
+Average Line Length: 33.554165 Customers
+Max Line Length: 76 Customers
+
+./proj2 proj21.dat
+
+Simulation: 7 Tellers
+Total Served: 1046 Customers
+Average Wait In Line: 0.101338 Minutes
+Max Time Spent Waiting: 2 Minutes
+Average Line Length: 0.220833 Customers
+Max Line Length: 6 Customers
+
+
+Simulation: 6 Tellers
+Total Served: 1051 Customers
+Average Wait In Line: 0.263559 Minutes
+Max Time Spent Waiting: 3 Minutes
+Average Line Length: 0.577083 Customers
+Max Line Length: 9 Customers
+
+
+Simulation: 5 Tellers
+Total Served: 998 Customers
+Average Wait In Line: 0.859719 Minutes
+Max Time Spent Waiting: 5 Minutes
+Average Line Length: 1.787500 Customers
+Max Line Length: 13 Customers
+
+
+Simulation: 4 Tellers
+Total Served: 970 Customers
+Average Wait In Line: 15.224742 Minutes
+Max Time Spent Waiting: 35 Minutes
+Average Line Length: 33.554165 Customers
+Max Line Length: 76 Customers
+
+./proj2 proj21.dat 
+
+Simulation: 7 Tellers
+Total Served: 1046 Customers
+Average Wait In Line: 0.101338 Minutes
+Max Time Spent Waiting: 2 Minutes
+Average Line Length: 0.220833 Customers
+Max Line Length: 6 Customers
+
+
+Simulation: 6 Tellers
+Total Served: 1051 Customers
+Average Wait In Line: 0.263559 Minutes
+Max Time Spent Waiting: 3 Minutes
+Average Line Length: 0.577083 Customers
+Max Line Length: 9 Customers
+
+
+Simulation: 5 Tellers
+Total Served: 998 Customers
+Average Wait In Line: 0.859719 Minutes
+Max Time Spent Waiting: 5 Minutes
+Average Line Length: 1.787500 Customers
+Max Line Length: 13 Customers
+
+
+Simulation: 4 Tellers
+Total Served: 970 Customers
+Average Wait In Line: 15.224742 Minutes
+Max Time Spent Waiting: 35 Minutes
+Average Line Length: 33.554165 Customers
+Max Line Length: 76 Customers
+
+./proj2 proj22.dat 
+
+Simulation: 7 Tellers
+Total Served: 1727 Customers
+Average Wait In Line: 10.027215 Minutes
+Max Time Spent Waiting: 29 Minutes
+Average Line Length: 38.943748 Customers
+Max Line Length: 109 Customers
+
+
+Simulation: 6 Tellers
+Total Served: 1507 Customers
+Average Wait In Line: 45.019909 Minutes
+Max Time Spent Waiting: 89 Minutes
+Average Line Length: 171.225006 Customers
+Max Line Length: 328 Customers
+
+
+Simulation: 5 Tellers
+Total Served: 1238 Customers
+Average Wait In Line: 74.454765 Minutes
+Max Time Spent Waiting: 150 Minutes
+Average Line Length: 281.858337 Customers
+Max Line Length: 560 Customers
+
+
+Simulation: 4 Tellers
+Total Served: 973 Customers
+Average Wait In Line: 112.109970 Minutes
+Max Time Spent Waiting: 229 Minutes
+Average Line Length: 433.493744 Customers
+Max Line Length: 861 Customers
+
+./proj2 proj22.dat 
+
+Simulation: 7 Tellers
+Total Served: 1727 Customers
+Average Wait In Line: 10.027215 Minutes
+Max Time Spent Waiting: 29 Minutes
+Average Line Length: 38.943748 Customers
+Max Line Length: 109 Customers
+
+
+Simulation: 6 Tellers
+Total Served: 1507 Customers
+Average Wait In Line: 45.019909 Minutes
+Max Time Spent Waiting: 89 Minutes
+Average Line Length: 171.225006 Customers
+Max Line Length: 328 Customers
+
+
+Simulation: 5 Tellers
+Total Served: 1238 Customers
+Average Wait In Line: 74.454765 Minutes
+Max Time Spent Waiting: 150 Minutes
+Average Line Length: 281.858337 Customers
+Max Line Length: 560 Customers
+
+
+Simulation: 4 Tellers
+Total Served: 973 Customers
+Average Wait In Line: 112.109970 Minutes
+Max Time Spent Waiting: 229 Minutes
+Average Line Length: 433.493744 Customers
+Max Line Length: 861 Customers
+
+./proj2 proj22.dat 
+
+Simulation: 7 Tellers
+Total Served: 1727 Customers
+Average Wait In Line: 10.027215 Minutes
+Max Time Spent Waiting: 29 Minutes
+Average Line Length: 38.943748 Customers
+Max Line Length: 109 Customers
+
+
+Simulation: 6 Tellers
+Total Served: 1507 Customers
+Average Wait In Line: 45.019909 Minutes
+Max Time Spent Waiting: 89 Minutes
+Average Line Length: 171.225006 Customers
+Max Line Length: 328 Customers
+
+
+Simulation: 5 Tellers
+Total Served: 1238 Customers
+Average Wait In Line: 74.454765 Minutes
+Max Time Spent Waiting: 150 Minutes
+Average Line Length: 281.858337 Customers
+Max Line Length: 560 Customers
+
+
+Simulation: 4 Tellers
+Total Served: 973 Customers
+Average Wait In Line: 112.109970 Minutes
+Max Time Spent Waiting: 229 Minutes
+Average Line Length: 433.493744 Customers
+Max Line Length: 861 Customers
+
+bash-3.2$ exit
+exit
+
+Script done on Thu Mar 24 19:11:07 2016
