@@ -1,7 +1,7 @@
 #!/bin/bash
 numOut=0
 numIn=0
-inputFile="test.dat"
+inputFile="input.dat"
 rm -f tmpOut.txt
 if [ $# -ne 1 ]
 	then 
@@ -12,7 +12,7 @@ fi
 if [ ! -f $inputFile ]
 	then
 		echo "Could not find input file!"
-		echo "Make sure your input file is named test.dat"
+		echo "Make sure your input file is named input.dat"
 fi
 while read line 
 	do 
@@ -24,7 +24,7 @@ while read line
 	do
 		set $line
 		((numIn++))
-done < $inputFile
+done < input.dat
 cat tmpOut.txt | sort -u > outfile.out
 echo "The number of lines in the input file: " $numIn >> outfile.out
 echo "The number of line in the output file: " $numOut >> outfile.out
