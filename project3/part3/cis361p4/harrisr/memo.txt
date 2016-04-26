@@ -1,0 +1,23 @@
+Name: Ronald Harris (harrisr)
+Assignment: Project 4
+Date Submitted: Saturday, March 2, 2013 3:56:34 PM EST
+Current Grade: Not Yet Graded
+
+Submission Field:
+There is no student submission text data for this assignment.
+
+Comments:
+attached are my submission for this project.
+
+Project 4
+
+Files:
+	Original filename: makefile
+	Filename: Project 4_harrisr_attempt_2013-03-02-15-56-34_makefile
+
+	Original filename: LetFreq.txt
+	Filename: Project 4_harrisr_attempt_2013-03-02-15-56-34_LetFreq.txt
+
+	Original filename: cipher.c
+	Filename: Project 4_harrisr_attempt_2013-03-02-15-56-34_cipher.c
+

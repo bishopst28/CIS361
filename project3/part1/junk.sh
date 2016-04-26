@@ -36,11 +36,11 @@ if [ -f $fileNames ] #check to make sure it was actually given and is a file
 		while read f #while we have another line to read
 			do
 				if [ -f $f ] #make sure this line of text is actually a file
-					then #move the file to junk and then delete it, -u option given to keep latest version
-						mv -u $f $junkDir 
+					then #copy the file to junk and then delete it
+						cp -f $f $junkDir/$f
 						rm -f $f
 				fi
-		done
+		done < $fileNames
 fi
 if [ $listOpt == 1 ] #run ls if the -l optional arg is given 
 	then
@@ -50,6 +50,6 @@ if [ $listOpt == 1 ] #run ls if the -l optional arg is given
 fi
 if [ $numOpt == 1 ] #use ls and disk usage tool if the -n optional arg is given
 	then
-		echo "Number of Files in .junk: " $(ls~/.junk | wc -l)
+		echo "Number of Files in .junk: " $(ls ~/.junk | wc -l)
 		echo "Space Used: " $(du -sbh ~/.junk)
 fi

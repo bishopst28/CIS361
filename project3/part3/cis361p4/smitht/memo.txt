@@ -1,0 +1,21 @@
+Name: Thomas Smith (smitht)
+Assignment: Project 4
+Date Submitted: Sunday, March 3, 2013 4:18:29 PM EST
+Current Grade: Not Yet Graded
+
+Submission Field:
+<p>Here's some text under the "Submission" headline in the comments.txt file.</p>
+
+Comments:
+Just downloading the three files! Here's some comments inside the comments.txt file automatically created.
+
+Files:
+	Original filename: makefile
+	Filename: Project 4_smitht_attempt_2013-03-03-16-18-29_makefile
+
+	Original filename: LetFreq.txt
+	Filename: Project 4_smitht_attempt_2013-03-03-16-18-29_LetFreq.txt
+
+	Original filename: cipher.c
+	Filename: Project 4_smitht_attempt_2013-03-03-16-18-29_cipher.c
+

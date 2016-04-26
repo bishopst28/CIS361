@@ -1,8 +1,9 @@
 #!/bin/bash
 numOut=0
 numIn=0
-inputFile="input.dat"
-rm -f tmpOut.txt
+inputFile="test.dat"
+rm -f tempOut.txt
+touch tempOut.txt
 if [ $# -ne 1 ]
 	then 
 		echo "Insufficient Args"
@@ -12,7 +13,7 @@ fi
 if [ ! -f $inputFile ]
 	then
 		echo "Could not find input file!"
-		echo "Make sure your input file is named input.dat"
+		echo "Make sure your input file is named test.dat"
 fi
 while read line 
 	do 
@@ -24,7 +25,7 @@ while read line
 	do
 		set $line
 		((numIn++))
-done < input.dat
-cat tmpOut.txt | sort -u > outfile.out
+done < $inputFile
+cat tempOut.txt | sort -u > outfile.out
 echo "The number of lines in the input file: " $numIn >> outfile.out
-echo "The number of line in the output file: " $numOut >> outfile.out
+echo "The number of lines in the output file: " $numOut >> outfile.out

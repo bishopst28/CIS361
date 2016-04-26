@@ -1,0 +1,15 @@
+Script started on Mon Apr 25 19:15:18 2016
+[?1034hbash-3.2$ ls -a
+.		.DS_Store	asdggaeeee	fileList	junkmfilefa	test1		test3		test5
+..		asdgadsgaga	dontKeepMe	junk.sh		keepMe		test2		test4		typescript
+bash-3.2$ bash junk.sh fileList
+bash-3.2$ ls -a
+.		..		.DS_Store	.junk		fileList	junk.sh		keepMe		typescript
+bash-3.2$ bash junk.sh -l
+.junk directory contents: 
+asdgadsgaga asdggaeeee dontKeepMe junkmfilefa test1 test2 test3 test4 test5
+
+bash-3.2$ exit
+exit
+
+Script done on Mon Apr 25 19:17:06 2016

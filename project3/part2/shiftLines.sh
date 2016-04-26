@@ -8,10 +8,14 @@ while read -r line
 	do
 		set $line
 		head=""
+		body=""
+		newLine=""
 			for w in $line 
 				do
-					head="$head $1"
+					head="$head $w"
 					shift
-					echo $* $head
+					body="$*"
+					echo "${body} ${head}"
 			done
 done < $*
+

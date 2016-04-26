@@ -10,7 +10,8 @@ fi
 while read -r line
 	do
 		set $line
-		if [ ! grep -Fxq $1 $noiceFile ]
+		grep -Fxq "$1" $noiceFile
+		if [ $?=1 ]
 			then
 				echo $line
 		fi 
